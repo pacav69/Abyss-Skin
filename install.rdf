@@ -8,7 +8,7 @@
         <em:version>1.1.1</em:version>
         <em:description>A dark skin for Komodo</em:description>
         <em:creator>Nathan Rijksen</em:creator>
-        <em:homepageURL>http://komodo.activestate.com/addons/abyss_skin/</em:homepageURL>
+        <em:homepageURL>http://komodoide.com/packages/skins/abyss/</em:homepageURL>
         <em:iconURL>chrome://abyss-skin/skin/abyss.png</em:iconURL>
         <em:type>2</em:type> <!-- type=extension --> 
 
